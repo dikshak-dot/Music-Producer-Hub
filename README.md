@@ -1,2 +1,15 @@
-# Music-Producer-Hub
-Upload beats, loops, samples Organize by genre (EDM, Future Bass, Hip Hop) Collaborate with others
+# Music Producer Hub
+
+A full-stack web application for music producers.
+
+## Features (Planned)
+- Upload tracks
+- Explore beats
+- User authentication
+
+## Tech Stack
+- React (Frontend)
+- Spring Boot (Backend)
+
+## Status
+In development
